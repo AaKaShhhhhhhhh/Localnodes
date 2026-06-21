@@ -1,0 +1,43 @@
+# Build output
+/build/
+/components/*/build/
+/main/build/
+
+# ESP-IDF flash encryption keys
+/patterns/
+/partition_table/
+/project.bin
+/bootloader/bootloader.bin
+
+# CMake cache
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+ENV/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Git
+*.orig
+*.rej
