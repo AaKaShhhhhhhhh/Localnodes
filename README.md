@@ -173,3 +173,6 @@ wifi_config_t wifi_config = {
 };
 ```
 
+## License
+
+MIT License - See LICENSE file for details.
